@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm JB Vhert Moya</h1>
-<h3 align="center">A passionate full-stack developer from Philippines!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jb-moya&label=Profile%20views&color=0e75b6&style=flat" alt="jb-moya" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my projects are available at [https://jb-moya-portfolio.vercel.app/](https://jb-moya-portfolio.vercel.app/)
-
 - 📫 How to reach me **jbvhert2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
